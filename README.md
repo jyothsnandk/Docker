@@ -171,10 +171,5 @@ git push -u origin main
 ## Troubleshooting
 
 - If ports 3000 or 5000 are already in use, modify the port mappings in `docker-compose.yaml`
-- Ensure Docker is running before executing docker-compose commands
-- Check container logs: `docker-compose logs frontend` or `docker-compose logs backend`
-
-## License
-
-MIT
+  
 
